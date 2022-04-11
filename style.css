@@ -1,0 +1,30 @@
+* {
+    font-family: gothamLight, sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    transition: ease 0.4s;
+    color: white;
+}
+
+html {
+    background-color: rgb(3, 3, 90);
+}
+
+.navCntrl {
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.btn {
+    padding: 0.5rem 1rem 0.5rem 1rem;
+    background: transparent;
+    border: solid white;
+    cursor: pointer;
+}
+
+.btn:hover {
+    background-color: rgb(255, 255, 255, 0.3);
+}
