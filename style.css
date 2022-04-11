@@ -21,7 +21,7 @@ html {
 .btn {
     padding: 0.5rem 1rem 0.5rem 1rem;
     background: transparent;
-    border: solid white;
+    border: solid white 1px;
     cursor: pointer;
 }
 
