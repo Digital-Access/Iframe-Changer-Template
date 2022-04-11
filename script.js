@@ -43,7 +43,6 @@ const prevVideo = () => {
         i--
         video.src = config.videos[i];
     }
-
     progress.textContent = i + 1;
 }
 
