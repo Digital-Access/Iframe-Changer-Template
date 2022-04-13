@@ -65,8 +65,6 @@ const prevVideo = () => {
 
 prevBtn.addEventListener('click', prevVideo)
 
-
-
 if (config.videos.length === 1 || config.videos[i] === "") {
     nxtBtn.style.display = 'none'
     prevBtn.style.display = 'none'
