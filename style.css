@@ -33,6 +33,7 @@ html {
     width: 100%;
     justify-content: space-between;
     align-items: center;
+    background-color: #25517B;
 }
 
 .btn {
@@ -43,5 +44,5 @@ html {
 }
 
 .btn:hover {
-    background-color: rgb(255, 255, 255, 0.3);
+    background-color: rgb(255, 255, 255, 0.5);
 }
