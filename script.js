@@ -6,7 +6,7 @@ const config = {
     ],
     next_button: "Next video",
     previous_button: "Previous video",
-    progress_text: "Video "
+    progress_text: "Video"
 }
 
 const nxtBtn = document.getElementById('nxtBtn');
